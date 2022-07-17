@@ -1,0 +1,3 @@
+E:\CMake\bin\cmake.exe -E remove -f CMakeFiles\_03_ProgramControl.dir/objects.a
+E:\GCC\mingw64\bin\ar.exe cr CMakeFiles\_03_ProgramControl.dir/objects.a @CMakeFiles\_03_ProgramControl.dir\objects1.rsp
+E:\GCC\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\_03_ProgramControl.dir/objects.a -Wl,--no-whole-archive  -o _03_ProgramControl.exe -Wl,--out-implib,lib_03_ProgramControl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\_03_ProgramControl.dir\linklibs.rsp
