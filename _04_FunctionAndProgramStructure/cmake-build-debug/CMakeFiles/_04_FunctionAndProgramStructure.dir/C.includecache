@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/C Projects/_04_FunctionAndProgramStructure/main.c
+stdio.h
+-
+sub.c
+E:/C Projects/_04_FunctionAndProgramStructure/sub.c
+square.c
+E:/C Projects/_04_FunctionAndProgramStructure/square.c
+
+E:/C Projects/_04_FunctionAndProgramStructure/square.c
+
+E:/C Projects/_04_FunctionAndProgramStructure/sub.c
+stdio.h
+-
+

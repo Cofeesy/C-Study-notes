@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="_04_FunctionAndProgramStructure" targetName="_04_FunctionAndProgramStructure" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -9,7 +11,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f46b498-16d5-4044-b12f-2e1587f0583e" name="Default Changelist" comment="" />
+    <list default="true" id="7037679f-04cf-4837-a6a3-c14713c49071" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_03_ProgramControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_03_ProgramControl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/_04_FunctionAndProgramStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/_04_FunctionAndProgramStructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +36,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ProjectId" id="2C4vls3tfiocjHK1KxVtZ5iW86n" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2C6Koq1XldU3oNXW0IXfU7HbwbQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,22 +50,58 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="_04_FunctionAndProgramStructure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_04_FunctionAndProgramStructure" TARGET_NAME="_04_FunctionAndProgramStructure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_04_FunctionAndProgramStructure" RUN_TARGET_NAME="_04_FunctionAndProgramStructure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f46b498-16d5-4044-b12f-2e1587f0583e" name="Default Changelist" comment="" />
-      <created>1658074825688</created>
+      <changelist id="7037679f-04cf-4837-a6a3-c14713c49071" name="Default Changelist" comment="" />
+      <created>1658117771497</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658074825688</updated>
-      <workItem from="1658074827219" duration="10000" />
+      <updated>1658117771497</updated>
+      <workItem from="1658117772876" duration="7719000" />
+      <workItem from="1658133110953" duration="6340000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="904" height="253" key="GridCell.Tab.0.bottom" timestamp="1658159446312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="904" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1658159446312" />
+    <state width="904" height="253" key="GridCell.Tab.0.center" timestamp="1658159446312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="904" height="253" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1658159446312" />
+    <state width="904" height="253" key="GridCell.Tab.0.left" timestamp="1658159446310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="904" height="253" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1658159446310" />
+    <state width="904" height="253" key="GridCell.Tab.0.right" timestamp="1658159446312">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="904" height="253" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1658159446312" />
+    <state x="104" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1658133114232">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="104" y="299" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1658133114232" />
   </component>
 </project>

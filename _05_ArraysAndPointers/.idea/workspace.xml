@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="005ed501-7c06-4a6c-a430-ec765f23fe05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_03_ProgramControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_03_ProgramControl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/_04_FunctionAndProgramStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/_04_FunctionAndProgramStructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="2C7hI9HeAfbZAqEUoS6eYsbKI2m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="005ed501-7c06-4a6c-a430-ec765f23fe05" name="Default Changelist" comment="" />
+      <created>1658159447869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658159447869</updated>
+      <workItem from="1658159449446" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

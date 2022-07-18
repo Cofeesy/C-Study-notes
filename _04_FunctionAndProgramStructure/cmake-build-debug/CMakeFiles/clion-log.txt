@@ -1,0 +1,4 @@
+E:\CMake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/GCC/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=E:/GCC/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=E:/GCC/mingw64/bin/c++.exe -G "CodeBlocks - MinGW Makefiles" "E:\C Projects\_04_FunctionAndProgramStructure"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/C Projects/_04_FunctionAndProgramStructure/cmake-build-debug
