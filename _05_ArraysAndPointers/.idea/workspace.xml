@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="_05_ArraysAndPointers" targetName="_05_ArraysAndPointers" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -10,21 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="005ed501-7c06-4a6c-a430-ec765f23fe05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_03_ProgramControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_03_ProgramControl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/_04_FunctionAndProgramStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/_04_FunctionAndProgramStructure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/3.14.7/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_04_FunctionAndProgramStructure/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/_05_ArraysAndPointers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/_05_ArraysAndPointers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_06_StringsAndStructures/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../_06_StringsAndStructures/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +28,10 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2C7hI9HeAfbZAqEUoS6eYsbKI2m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,6 +43,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_06_StringsAndStructures" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="_05_ArraysAndPointers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_05_ArraysAndPointers" TARGET_NAME="_05_ArraysAndPointers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_05_ArraysAndPointers" RUN_TARGET_NAME="_05_ArraysAndPointers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,10 +69,26 @@
       <option name="presentableId" value="Default" />
       <updated>1658159447869</updated>
       <workItem from="1658159449446" duration="59000" />
+      <workItem from="1658237981685" duration="3331000" />
+      <workItem from="1658244230492" duration="93000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="214" y="212" key="FileChooserDialogImpl" timestamp="1658244322157">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="214" y="212" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1658244322157" />
+    <state x="104" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1658244263612">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="104" y="299" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1658244263612" />
+    <state x="59" y="229" width="840" height="1034" key="run.anything.popup" timestamp="1658239386982">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="59" y="229" width="840" height="1034" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1658239386982" />
   </component>
 </project>
