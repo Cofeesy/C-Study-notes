@@ -12,10 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7037679f-04cf-4837-a6a3-c14713c49071" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../_05_ArraysAndPointers/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../_05_ArraysAndPointers/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_05_ArraysAndPointers/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../_05_ArraysAndPointers/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/CMakeFiles/_06_StringsAndStructures.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/_06_StringsAndStructures.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../_06_StringsAndStructures/cmake-build-debug/_06_StringsAndStructures.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_06_StringsAndStructures/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../_06_StringsAndStructures/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_07_Preprocessor/.idea/_07_Preprocessor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../_07_Preprocessor/.idea/_07_Preprocessor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_07_Preprocessor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_07_Preprocessor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_07_Preprocessor/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../_07_Preprocessor/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_07_Preprocessor" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -67,6 +72,7 @@
       <workItem from="1658117772876" duration="7719000" />
       <workItem from="1658133110953" duration="6340000" />
       <workItem from="1658237993642" duration="27000" />
+      <workItem from="1658464628526" duration="899000" />
     </task>
     <servers />
   </component>
@@ -74,6 +80,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="214" y="212" key="FileChooserDialogImpl" timestamp="1658465571645">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="214" y="212" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1658465571645" />
     <state width="904" height="253" key="GridCell.Tab.0.bottom" timestamp="1658159446312">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
