@@ -1,1 +1,1 @@
-# My Personal C Study Notes by Clion
+# C Study Notes by Clion
